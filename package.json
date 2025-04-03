@@ -1,5 +1,5 @@
 {
-  "name": "firebase-admin-dashboard",
+  "name": "admin-users-dashboard",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",

@@ -1,3 +1,3 @@
-# Firebase Admin Dashboard
+# Firebase Admin Users Table
 
-ממשק ניהול משתמשים עבור מנהל בלבד (kaikov@gmail.com)
+ניהול משתמשים עם טבלה מלאה
