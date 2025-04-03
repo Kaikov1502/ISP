@@ -30,6 +30,9 @@ export default function Home() {
       } else {
         await signInWithEmailAndPassword(auth, email, password);
         alert("התחברת בהצלחה!");
+        if (email === "kaikov@gmail.com") {
+          window.location.href = "/admin";
+        }
       }
     } catch (err) {
       setError(err.message);

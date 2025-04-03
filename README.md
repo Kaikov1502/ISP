@@ -1,3 +1,3 @@
-# Firebase Auth Dashboard
+# Firebase Admin Dashboard
 
-אתר התחברות עם Firebase Authentication – מוכן עם הפרטים שלך.
+ממשק ניהול משתמשים עבור מנהל בלבד (kaikov@gmail.com)
